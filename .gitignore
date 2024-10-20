@@ -1,0 +1,10 @@
+pyrightconfig.json
+.venv
+.env
+env/
+__pycache__
+*.pem
+*.pub
+.DS_Store
+*.zip
+.zed
